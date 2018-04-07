@@ -4,7 +4,7 @@ date: Thu May 05 2016 15:14:43 GMT-0500 (CDT)
 ---
 Este es un [podcast](http://99percentinvisible.org/) que he estado escuchando mucho y me gustaría recomendarlos, tiene desde tema de desarrollo de producto, pasando por marketing y llegando a cosas raras que se convierten en parte de la cultura de algún país o del internet.
 
-En temas de diseño de productos pueden checar el episodio sobre las Norman Doors y como hacer cosas que sean intuitivas. En este capitulo cuentan la historia de Don Norman que es uno de los gurus de UX y acaban el capitulo entrevistarlo.
+En temas de diseño de productos pueden checar el episodio sobre las Norman Doors y como hacer cosas que sean intuitivas. En este capitulo cuentan la historia de [Don Norman](https://en.wikipedia.org/wiki/Don_Norman) que es uno de los gurus de UX y acaban el capitulo entrevistarlo.
 
 En temas de marketing han hablado de la historia de los comerciales de comida pasando desde las primeras ilustraciones antes de que la television se inventara a los aparatos complicados que utilizan hoy en día. También describen los distintos tipos de tomas que utilizan en un comercial y es cómico ver los comerciales ahora.
 
