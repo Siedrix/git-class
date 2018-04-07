@@ -8,6 +8,6 @@ En temas de diseño de productos pueden checar el episodio sobre las Norman Door
 
 En temas de marketing han hablado de la historia de los comerciales de comida pasando desde las primeras ilustraciones antes de que la television se inventara a los aparatos complicados que utilizan hoy en día. También describen los distintos tipos de tomas que utilizan en un comercial y es cómico ver los comerciales ahora.
 
-Llegando a cosas raras que pertenecen a la cultura en la que vivimos como la mística cabina de teléfono a la mitad del desierto de mohave acompañada de la historia del dude que la hizo popular y el Giftschrank donde cuentan la historia de los libros prohibidos en Alemania y como se conservaron desde Lutero hasta el fin de la guerra fría, poniendo mucho enfoque en Mein Kampf.
+Llegando a cosas raras que pertenecen a la cultura en la que vivimos como la mística cabina de teléfono a la mitad del desierto de mohave acompañada de la historia del dude que la hizo popular y el Giftschrank donde cuentan la historia de los libros prohibidos en [Alemania](https://en.wikipedia.org/wiki/Don_Norman) y como se conservaron desde Lutero hasta el fin de la guerra fría, poniendo mucho enfoque en Mein Kampf.
 
 Es de esos podcast que me hace aprender algo cada vez que lo escucho y me pone a pensar del porque de muchas cosas con las que interactúo en la vida diaria o de por que llegaron a ser relevantes cosas que parecen triviales. Si escuchan o leen algo por el estilo, compartanlos conmigo.
