@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "express": "4.13.4",
+    "minimist": "^1.2.0",
     "moment": "^2.13.0",
     "morgan": "1.7.0 ",
     "paperpress": "1.1.1",
